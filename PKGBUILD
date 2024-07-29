@@ -1,5 +1,5 @@
 pkgname=geometry-dash-plymouth-theme
-pkgver=1.0.0
+pkgver=1.1.0
 pkgrel=1
 pkgdesc="The Plymouth Theme for Geometry Dash OS"
 arch=('x86_64')

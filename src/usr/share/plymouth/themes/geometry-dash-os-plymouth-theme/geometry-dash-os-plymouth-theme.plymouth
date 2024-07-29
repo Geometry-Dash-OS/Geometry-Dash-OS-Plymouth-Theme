@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Geometry Dash OS Plymouth Theme
+Description=Monochrome theme with Geometry Dash logo and spinner
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/geometry-dash-os-plymouth-theme/images
+ScriptFile=/usr/share/plymouth/themes/geometry-dash-os-plymouth-theme/geometry-dash-os-plymouth-theme.script
